@@ -18,4 +18,3 @@ https://www.cnblogs.com/hopelee/p/7049819.html
 Master可免密登录Slave2和Slave3，同时Slave2可免密登录Slave3；//可能与密钥配置有关，目前仅可实现到这一步（Slave1尚未配置）
 
 5.各配置文件尚未配置；
-
